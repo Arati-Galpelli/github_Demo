@@ -6,4 +6,7 @@ public class Main {
     static void addition(){
 
     }
+    static void subtraction(){
+
+    }
 }
